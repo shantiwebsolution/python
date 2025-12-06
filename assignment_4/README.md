@@ -20,7 +20,7 @@ A program that opens and reads a text file named `sample.txt`, prints its conten
 **How to run:**
 
 ```bash
-python t1_readfile.py
+python3 t1_readfile.py
 ```
 
 ### Task 2: Write to File
@@ -39,7 +39,7 @@ A program that demonstrates file writing operations by taking user input, writin
 **How to run:**
 
 ```bash
-python t2_write_file.py
+python3 t2_write_file.py
 ```
 
 ## Requirements
