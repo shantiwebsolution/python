@@ -1,4 +1,4 @@
-# Python Assignment 3
+# Python Assignment 3:Functions & Modules in Python
 
 This repository contains solutions for Python Assignment 3, which includes two programming tasks demonstrating fundamental Python concepts including loops, recursion, and modular programming.
 
